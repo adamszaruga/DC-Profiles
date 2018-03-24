@@ -1,0 +1,39 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+ .bg {
+	background-image: url('../img/digitalcrafts-group-2.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto;
+} 
+
+.jumbotron {
+	background: rgba(218, 230, 241, 0.9)
+	/*background: transparent; */
+}
+
+.main-container {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.main-container img {
+	padding-bottom: 15px;
+}
+
+
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+
+.sub-container {
+	width: 40%;
+	margin: 0 auto;
+	align-self: center;
+}

@@ -1,5 +1,3 @@
-# EDIT ME
+DC Connect
 
-Write a description of what the DC Profiles app is. Here's a good resource for how to format a Github Readme:
-
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+This is a web portal that employers can log in to and view the profiles of DigitalCrafts students. They'll be able to search for specific students using a search bar, and reach out to individual students to initiate job interviews. In addition, the students themselves will be able to log in and update their profiles with bios, resumes, social media pages, and (most importantly) portfolio projects.
