@@ -4,26 +4,38 @@ body {
 }
 
  .bg {
-	background-image: url('../img/digitalcrafts-group-2.jpg');
+	background-image: url('../img/connect2.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: auto;
+	background-size: 1450px;
 } 
 
 .jumbotron {
-	background: rgba(218, 230, 241, 0.9)
+	background: rgba(32, 64, 96, 0.6)
 	/*background: transparent; */
 }
 
 .main-container {
 	width: 60%;
 	margin: 0 auto;
+	color: #FFF;
 }
 
 .main-container img {
 	padding-bottom: 15px;
 }
 
+.main-container h1 {
+	font-size: 45px;
+}
+
+.main-container p {
+	font-size: 18px;
+}
+
+.main-container .btn {
+	margin-top: 30px;
+}
 
 
 .container {
@@ -35,5 +47,16 @@ body {
 .sub-container {
 	width: 40%;
 	margin: 0 auto;
-	align-self: center;
 }
+
+.sub-container h3 {
+	padding: 10px;
+}
+
+
+
+footer {
+	margin-top: 40px;
+}
+
+
