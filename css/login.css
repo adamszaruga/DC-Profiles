@@ -1,0 +1,59 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	padding: 50px;
+	margin: 50px 0 50px 0;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+
+
+.login-form {
+	margin-right: 60px;
+}
+
+.login-form .btn {
+	margin-top: 20px;
+}
+
+
+
+
+.other-logins {
+	border-left: 1px solid black ;
+}
+
+.facebook {
+	width: 250px;
+	height: 50px;
+	background-color: #3B539A;
+	margin: 30px 0px 20px 30px;
+	color: #FFF;
+	text-align: center;
+	padding-top: 14px;
+}
+
+.google {
+	width: 250px;
+	height: 50px;
+	background-color: #4179F7;
+	margin-left: 30px;
+	color: #FFF;
+	text-align: center;
+	padding-top: 14px;
+}
+
+
+
+
+footer {
+	margin-top: 100px;
+}
